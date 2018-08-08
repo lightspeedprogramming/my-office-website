@@ -22,7 +22,7 @@
             <div class="carousel-background"><img src="img/policy-banner.jpg" alt="" class="img-fluid"></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>TERMS & CONDITION</h2>
+                <h2 class="page-title">TERMS & CONDITION</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
               </div>
             </div>

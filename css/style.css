@@ -296,7 +296,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #18d26e;
 }
 
-
 /*========================
   about us section
 ==========================*/
@@ -810,7 +809,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 15px;
   font-size: 18px;
   color: black;
-  text-transform: uppercase;
 }
 
 #services .title a {
@@ -1616,34 +1614,19 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #b1b1b1;
 }
 
-#footer .copyright .footer-anchor a:hover,a:visited
-{ 
-  color: #fff;
-}
-
 /* featured servicesw */
     #featured-services h3,h4
     {
-      color:#24282e;
+      color:#fff;
     }
 /* #featured servicesw */
 
 
-/*refund policy page*/
 .main-content {
     padding: 70px 0 30px;
 }
 
-.main-content a {
-    color: #337ab7;
-}
-
-.main-content a:hover {
-    color: #18d26e;
-}
-
-
-.b-item-detail h2, h3 {
+.main-content .b-item-detail h2, h3, h4 {
     color: #24282e;
     font-family: Rubik-Medium;
     margin: 0 0 15px;
@@ -1653,23 +1636,21 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-weight: bolder;
 }
 
-.b-item-detail h3 {
+.main-content .b-item-detail h3 {
     font-size: 22px;
 }
 
-.b-item-detail h4 {
+.main-content .b-item-detail h4 {
     font-size: 16px;
-    font-weight: bolder;
 }
 
-/*# refund policy*/
-
-/*terms and condition*/
+.main-content a {
+    color: #337ab7;
+}
 
 .blog-single-field {
     padding: 120px 0 70px;
 }
-
 
 .blog-single-col h2 {
     font-size: 28px;
@@ -1683,4 +1664,78 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 22px;
 }
 
-/* # terms and condition*/
+
+/* android app page*/
+
+  .about
+  {
+    margin:50px 0px 50px;
+  }
+
+  .about-heading h4
+  {
+    font-size: 20px;
+    font-family: Lucida Handwriting;
+    font-style: italic bold;
+    color: #cb2027;
+    text-transform: capitalize;
+    text-align: center; 
+  }
+
+  .about .sub-heading h3
+  {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 23px;
+    line-height: 50px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    color: #464646;
+  }
+
+  .paragraph p
+  {
+    font-size: 15px;
+    font-weight: 400px;
+    line-height: 29px;
+    
+  }
+
+  .content-wrap .icon i 
+  {
+    color: rgb(203, 32, 38);
+    font-size: 36px;
+    line-height: 1;
+    transition: 0.5s;
+  }
+
+  .content .icon {
+    float: left;
+}
+
+  .content-wrap .title 
+  {
+    margin-left: 60px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+    color: black;
+  }
+
+  .content-wrap .description {
+    font-size: 14px;
+    margin-left: 60px;
+    line-height: 24px;
+    margin-bottom: 0;
+}
+
+.img-wrap
+{
+  padding:50px 15px 0px 15px;
+}
+
+
+
+/* # android app page*/

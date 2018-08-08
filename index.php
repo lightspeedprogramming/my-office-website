@@ -88,7 +88,7 @@
                   We design, develop and market mobile apps so that they can run on specific platforms perfectly on the selected devices. We gain a deep understanding of your brand, your products, your customers, and use that knowledge to make thousands of decisions that make your customers love you.
                 </p>
 
-                <div class="custom_button"></div><a href="#" class="btn btn-md btn-outline-dark">Read More</a>
+                <div class="custom_button"></div><a href="about-us.php" class="btn btn-md btn-outline-dark">Read More</a>
               </div>
               <div class="col-md-6 col-12 padding">
                 <img src="img/mobiles.png" class="img-fluid">

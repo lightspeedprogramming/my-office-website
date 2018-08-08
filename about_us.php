@@ -50,8 +50,6 @@
       height: 600px;
       width: 540px;
     }
-
-    @media ()
   </style>
 </head>
 <body>
