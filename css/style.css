@@ -296,6 +296,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #18d26e;
 }
 
+
 /*========================
   about us section
 ==========================*/
@@ -809,6 +810,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 15px;
   font-size: 18px;
   color: black;
+  text-transform: uppercase;
 }
 
 #services .title a {
@@ -1614,9 +1616,71 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #b1b1b1;
 }
 
+#footer .copyright .footer-anchor a:hover,a:visited
+{ 
+  color: #fff;
+}
+
 /* featured servicesw */
     #featured-services h3,h4
     {
-      color:#fff;
+      color:#24282e;
     }
 /* #featured servicesw */
+
+
+/*refund policy page*/
+.main-content {
+    padding: 70px 0 30px;
+}
+
+.main-content a {
+    color: #337ab7;
+}
+
+.main-content a:hover {
+    color: #18d26e;
+}
+
+
+.b-item-detail h2, h3 {
+    color: #24282e;
+    font-family: Rubik-Medium;
+    margin: 0 0 15px;
+    line-height: 1;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.b-item-detail h3 {
+    font-size: 22px;
+}
+
+.b-item-detail h4 {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+/*# refund policy*/
+
+/*terms and condition*/
+
+.blog-single-field {
+    padding: 120px 0 70px;
+}
+
+
+.blog-single-col h2 {
+    font-size: 28px;
+    color: #424242;
+    font-weight: bold;
+    font-family: Rubik-Medium;
+}
+
+.blog-single-col h3 {
+    margin: 15px 0;
+    font-size: 22px;
+}
+
+/* # terms and condition*/

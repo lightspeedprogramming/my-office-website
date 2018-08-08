@@ -91,7 +91,7 @@
                 <div class="custom_button"></div><a href="#" class="btn btn-md btn-outline-dark">Read More</a>
               </div>
               <div class="col-md-6 col-12 padding">
-                <img width="1500px" height="1426px" src="img/mobiles.png" class="img-fluid">
+                <img src="img/mobiles.png" class="img-fluid">
               </div>
             </div>
           </div>
@@ -100,36 +100,6 @@
     <!--=========================
           # two column section
     ===========================-->
-
-
-    <!--==========================
-      Featured Services Section
-    ============================-->
-    <!--<section id="featured-services">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-4 box">
-            <i class="ion-ios-bookmarks-outline"></i>
-            <h4 class="title"><a href="">Lorem Ipsum Delino</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-          </div>
-
-          <div class="col-lg-4 box box-bg">
-            <i class="ion-ios-stopwatch-outline"></i>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-          </div>
-
-          <div class="col-lg-4 box">
-            <i class="ion-ios-heart-outline"></i>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-          </div>
-
-        </div>
-      </div>
-    </section>--><!-- #featured-services -->
 
     <!--==========================
       Services Section
@@ -266,35 +236,6 @@
       </div>
     </section>
 
-   <!--==========================
-        # Testimonial Section
-    =============================-->
-    
-    <!--==========================
-      Clients Section
-    ============================-->
-    <section id="clients" class="wow fadeInUp">
-      <div class="container">
-
-        <header class="section-header">
-          <h3>Our Clients</h3>
-        </header>
-
-        <div class="owl-carousel clients-carousel">
-          <img src="img/clients/client-1.png" alt="">
-          <img src="img/clients/client-2.png" alt="">
-          <img src="img/clients/client-3.png" alt="">
-          <img src="img/clients/client-4.png" alt="">
-          <img src="img/clients/client-5.png" alt="">
-          <img src="img/clients/client-6.png" alt="">
-          <img src="img/clients/client-7.png" alt="">
-          <img src="img/clients/client-8.png" alt="">
-        </div>
-
-      </div>
-    </section><!-- #clients -->
-
-
     <!--==========================
       Call To contact-form Section
     ============================-->
@@ -302,154 +243,6 @@
     <?php
       include("call-to-action.php");
     ?>
-
-    <!-- #call-to-action -->
-
-    <!--==========================
-      Skills Section
-    ============================-->
-    <!--<section id="skills">
-      <div class="container">
-
-        <header class="section-header">
-          <h3>Our Skills</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
-        </header>
-
-        <div class="skills-content">
-
-          <div class="progress">
-            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">HTML <i class="val">100%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">CSS <i class="val">90%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>-->
-
-   
-
-    
-    
-
-    <!--==========================
-      Team Section
-    ============================-->
-    <!--<section id="team">
-      <div class="container">
-        <div class="section-header wow fadeInUp">
-          <h3>Team</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp">
-            <div class="member">
-              <img src="img/team-1.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="member">
-              <img src="img/team-2.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-            <div class="member">
-              <img src="img/team-3.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <div class="member">
-              <img src="img/team-4.jpg" class="img-fluid" alt="">
-              <div class="member-info">
-                <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
-                  <div class="social">
-                    <a href=""><i class="fa fa-twitter"></i></a>
-                    <a href=""><i class="fa fa-facebook"></i></a>
-                    <a href=""><i class="fa fa-google-plus"></i></a>
-                    <a href=""><i class="fa fa-linkedin"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>--><!-- #team -->
-
-    <!--==========================
-      Contact Section
-    ============================-->
-    
-    <?php
-      include("contact-us.php");
-    ?>
-
-    <!-- #contact -->
 
   </main>
 

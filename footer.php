@@ -58,7 +58,20 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong></strong>. All Rights Reserved
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              &copy; Copyright <strong></strong>. All Rights Reserved      
+            </div>
+            <div class="col-md-6">
+              <div class="footer-anchor">
+                <a href="refund_policy.php" class="btn btn-md btn-info">Refund</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="terms-&-condition.php" class="btn btn-md btn-info">Terms of Service</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy_policy.php" class="btn btn-md btn-info">Privacy Policy</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        
       </div>
     </div>
   </footer><!-- #footer -->
