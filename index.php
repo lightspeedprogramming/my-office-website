@@ -19,7 +19,7 @@
                 <h2>MOBILE APP DEVELOPMENT</h2>
                 <p>We at XYZ keen in developing the applications for you in the following niches i.e. Android, Windows, and Blackberry. We have expertise in developing applications for different podiums.</p>
 
-                <a href="#featured-services" class="btn btn-lg btn-info scrollto">Read More</a>
+                <a href="contact-us.php" class="btn btn-lg btn-info scrollto">Read More</a>
               </div>
             </div>
           </div>
@@ -31,7 +31,7 @@
                 <h2>WEB HOSTING</h2>
                 <p>We at XYZ keen in developing the applications for you in the following niches i.e. Android, Windows, and Blackberry. We have expertise in developing applications for different podiums.</p>
 
-                <a href="#featured-services" class="btn btn-lg  btn-info scrollto">Read More</a>
+                <a href="contact-us.php" class="btn btn-lg  btn-info scrollto">Read More</a>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
                 <h2>WEBSITE DESIGN & DEVELOPMENT</h2>
                 <p>We at XYZ keen in developing the applications for you in the following niches i.e. Android, Windows, and Blackberry. We have expertise in developing applications for different podiums.</p>
 
-                <a href="#featured-services" class="btn btn-lg btn-info scrollto">Read More</a>
+                <a href="contact-us.php" class="btn btn-lg btn-info scrollto">Read More</a>
               </div>
             </div>
           </div>
