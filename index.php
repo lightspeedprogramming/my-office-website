@@ -123,8 +123,11 @@
               <a href="android-app-devlopment.php" class="btn btn-md btn-outline-dark btn-light">Read More</a>
             </div>
           </div>
+
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon" style="padding-top: 3px; padding-bottom: 3px;"><i class="fas fa-apple-alt"></i></div>
+            <div class="icon" >
+              <i class="fab fa-app-store-ios"></i>
+            </div>
             <h4 class="title">IOS APP DEVELOPMENT</h4>
             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
 
