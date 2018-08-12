@@ -63,6 +63,7 @@
           <li><a href="about_us.php">ABOUT</a></li>
           <li class="menu-has-children"><a href="#">SERVICES</a>
             <ul>
+			  <li><a href="mobile-app-development.php">MOBILE APPLICATION DEVELOPMENT</a></li>
               <li><a href="android-app-devlopment.php">ANDROID APPLICATION DEVELOPMENT</a></li>
               <li><a href="ios-application-development.php">IOS APPLICATION DEVELOPMENT</a></li>
               <li><a href="hybrid-app-development.php">HYBRID APPLICATION DEVELOPMENT</a></li>
