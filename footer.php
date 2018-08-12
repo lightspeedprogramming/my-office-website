@@ -44,7 +44,7 @@
               New xxx, xy xxxxxx<br>
               xyz States <br>
               <strong>Phone:</strong> +x xxxx xxxxx xx<br>
-              <strong>Email:</strong> support@gmail.com<br>
+              <strong>Email:</strong> contact@domain.com<br>
             </p>
 
           </div>
