@@ -203,6 +203,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .carousel-content {
   text-align: center;
+  padding-top: 68px;
 }
 
 #intro h2 {
@@ -214,7 +215,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #intro h2 {
-    font-size: 28px;
+    font-size: 23px;
   }
 }
 
@@ -323,6 +324,7 @@ h1, h2, h3, h4, h5, h6 {
   {
     padding-left: 20px;
     padding-right: 20px;
+    padding-top: 40px;
   }
 
   #about-us h1
@@ -505,7 +507,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Mobile Nav Styling */
 #mobile-nav {
   position: fixed;
-  top: 0;
+  top: 18px;
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
@@ -1612,6 +1614,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-style: normal;
     text-transform: none;
     color: #b1b1b1;
+}
+
+@media only screen and (min-width:374px)
+{
+  #margin-from-copyright
+  {
+    margin-top: 30px;
+  }
 }
 
 /* featured servicesw */

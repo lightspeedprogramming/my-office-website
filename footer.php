@@ -1,6 +1,3 @@
-
-  
-
   <!--==========================
     Footer
   ============================-->
@@ -63,9 +60,18 @@
             <div class="col-md-6">
               &copy; Copyright <strong></strong>. All Rights Reserved      
             </div>
-            <div class="col-md-6">
-              <div class="footer-anchor">
-                <a href="refund_policy.php" class="btn btn-md btn-info">Refund</a>&nbsp;&nbsp;<a href="terms-&-condition.php" class="btn btn-md btn-info">Terms & Conditions</a>&nbsp;&nbsp;<a href="privacy_policy.php" class="btn btn-md btn-info">Privacy Policy</a>
+
+            <div class="col-md-6 ">
+              <div class="row" id="margin-from-copyright">
+                <div class="col-md-4 col-12">
+                  <a href="refund_policy.php" class="btn btn-sm btn-info">Refund Policy</a>
+                </div>
+                <div class="col-md-4 col-12">
+                  <a href="terms-&-condition.php" class="btn btn-sm btn-info">Terms & Condition</a>
+                </div>
+                <div class="col-md-4 col-12">
+                  <a href="privacy_policy.php" class="btn btn-sm btn-info">Privacy Policy</a>    
+                </div>
               </div>
             </div>
           </div>
