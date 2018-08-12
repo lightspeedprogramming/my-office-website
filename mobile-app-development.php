@@ -42,7 +42,11 @@
 	<!-- About Section -->
 	<section id="about">
 		<div class="container">
-			<div class="row"></div>
+			<div class="row">
+				<div class="col-md-12">
+					
+				</div>
+			</div>
 		</div>
 	</section>	
 	<!-- #About Section -->
