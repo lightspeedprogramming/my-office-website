@@ -39,7 +39,13 @@
     </div>
   </section><!-- #intro -->
   
-  
+	<!-- About Section -->
+	<section id="about">
+		<div class="container">
+			<div class="row"></div>
+		</div>
+	</section>	
+	<!-- #About Section -->
 <?php
 	include("footer.php");
 ?>
