@@ -44,12 +44,6 @@
       margin-bottom: 40px;
       padding: 30px;
     }
-
-    .image-wrap img
-    {
-      height: 600px;
-      width: 540px;
-    }
   </style>
 </head>
 <body>
@@ -109,7 +103,7 @@
 
         <div class="col-sm-6">
           <div class="image-wrap">
-            <img src="img/mobile-app-page.jpg" class="img-fluid">
+            <img src="img/mobile-app-page.png" class="img-fluid">
           </div>
         </div>
 
