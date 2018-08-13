@@ -6,7 +6,7 @@
   ============================-->
   <footer id="footer">
     <div class="footer-top">
-      <div class="container">
+      <div class="container" style="max-width: 100%;">
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
@@ -43,11 +43,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Our Office</h4>
             <p>
-              abc xyz Street <br>
+              <strong>Address: </strong>abc xyz Street <br>
               New xxx, xy xxxxxx<br>
-              xyz States <br>
+              xyz States. <br>
               <strong>Phone:</strong> +x xxxx xxxxx xx<br>
-              <strong>Email:</strong> support@gmail.com<br>
+              <strong>Email:</strong> contact@gmail.com<br>
             </p>
 
           </div>
@@ -64,8 +64,23 @@
               &copy; Copyright <strong></strong>. All Rights Reserved      
             </div>
             <div class="col-md-6">
+              
+
+                <div class="row">
+                  <div class="col-md-4">
+                    <a href="refund_policy.php" class="btn btn-sm btn-info">Refund</a>
+                  </div>
+                  <div class="col-md-4">
+                    <a href="terms-&-condition.php" class="btn btn-sm btn-info">Terms & Conditions</a>
+                  </div>
+                  <div class="col-md-4">
+                    <a href="privacy_policy.php" class="btn btn-sm btn-info">Privacy Policy</a>
+                  </div>
+                </div>
+
+
+
               <div class="footer-anchor">
-                <a href="refund_policy.php" class="btn btn-md btn-info">Refund</a>&nbsp;&nbsp;<a href="terms-&-condition.php" class="btn btn-md btn-info">Terms & Conditions</a>&nbsp;&nbsp;<a href="privacy_policy.php" class="btn btn-md btn-info">Privacy Policy</a>
               </div>
             </div>
           </div>

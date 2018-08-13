@@ -1,3 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Us</title>
+</head>
+<body>
+
+</body>
+</html>
+<?php
+  include("header.php");
+?>
+
+ <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro" style="height: 10vh">
+    <div class="intro-container">
+      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+          <div class="carousel-item active" style="height:10vh;">
+            <div class="carousel-background" style="background-color: black;">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section><!-- #intro -->
+
 <section id="contact" class="section-bg wow fadeInUp">
       <div class="container">
 
@@ -33,7 +61,12 @@
                 </div>
 
                 <div class="form-group">
-                  <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                  <input type="text" class="form-control" name="services" id="subject" placeholder="Services"/>
+                  <div class="validation"></div>
+                </div>
+
+                <div class="form-group">
+                  <input type="text" class="form-control" name="subject" id="subject" placeholder="How did you find us?"/>
                   <div class="validation"></div>
                 </div>
 
@@ -47,7 +80,7 @@
           </div>
 
 
-          <div class="col-md-6">
+          <div class="col-md-6" style="padding-top: 30px;">
             <div class="row">
               <div class="col-12">
                 <div class="address-div">
@@ -107,3 +140,7 @@
 
       </div>
 </section>
+
+<?php
+  include("footer.php");
+?>

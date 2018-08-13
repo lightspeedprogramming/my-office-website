@@ -17,9 +17,9 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>MOBILE APP DEVELOPMENT</h2>
-                <p>We at XYZ keen in developing the applications for you in the following niches i.e. Android, Windows, and Blackberry. We have expertise in developing applications for different podiums.</p>
+                <p></p>
 
-                <a href="#featured-services" class="btn btn-lg btn-info scrollto">Read More</a>
+                <a href="mobile-app-development.php" class="btn btn-lg btn-info scrollto">Read More</a>
               </div>
             </div>
           </div>
@@ -29,9 +29,9 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>WEB HOSTING</h2>
-                <p>We at XYZ keen in developing the applications for you in the following niches i.e. Android, Windows, and Blackberry. We have expertise in developing applications for different podiums.</p>
+                <p></p>
 
-                <a href="#featured-services" class="btn btn-lg  btn-info scrollto">Read More</a>
+                <a href="web-hosting.php" class="btn btn-lg  btn-info scrollto">Read More</a>
               </div>
             </div>
           </div>
@@ -41,9 +41,9 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>WEBSITE DESIGN & DEVELOPMENT</h2>
-                <p>We at XYZ keen in developing the applications for you in the following niches i.e. Android, Windows, and Blackberry. We have expertise in developing applications for different podiums.</p>
+                <p></p>
 
-                <a href="#featured-services" class="btn btn-lg btn-info scrollto">Read More</a>
+                <a href="web-design.php" class="btn btn-lg btn-info scrollto">Read More</a>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@
                   We design, develop and market mobile apps so that they can run on specific platforms perfectly on the selected devices. We gain a deep understanding of your brand, your products, your customers, and use that knowledge to make thousands of decisions that make your customers love you.
                 </p>
 
-                <div class="custom_button"></div><a href="about-us.php" class="btn btn-md btn-outline-dark">Read More</a>
+                <div class="custom_button"></div><a href="about_us.php" class="btn btn-md btn-outline-dark">Read More</a>
               </div>
               <div class="col-md-6 col-12 padding">
                 <img src="img/mobiles.png" class="img-fluid">
@@ -124,7 +124,7 @@
             </div>
           </div>
           <div class="col-lg-4 col-md-6 box wow bounceInUp" data-wow-duration="1.4s">
-            <div class="icon" style="padding-top: 3px; padding-bottom: 3px;"><i class="fas fa-apple-alt"></i></div>
+            <div class="icon" style="padding-top: 3px; padding-bottom: 3px;"><i class="fab fa-app-store-ios"></i></div>
             <h4 class="title">IOS APP DEVELOPMENT</h4>
             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
 
@@ -139,7 +139,7 @@
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
 
             <div class="custom_button_div">
-              <a href="#" class="btn btn-md btn-outline-dark btn-light">Read More</a>
+              <a href="hybrid-app-development.php" class="btn btn-md btn-outline-dark btn-light">Read More</a>
             </div>
 
           </div>
@@ -149,7 +149,7 @@
             <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
 
             <div class="custom_button_div">
-              <a href="#" class="btn btn-md btn-outline-dark btn-light">Read More</a>
+              <a href="mobile-app-marketing.php" class="btn btn-md btn-outline-dark btn-light">Read More</a>
             </div>
 
           </div>
@@ -159,7 +159,7 @@
             <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
 
             <div class="custom_button_div">
-              <a href="#" class="btn btn-md btn-outline-dark btn-light">Read More</a>
+              <a href="mobile-app-design.<?php  ?>" class="btn btn-md btn-outline-dark btn-light">Read More</a>
             </div>
 
           </div>
@@ -169,7 +169,7 @@
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
 
             <div class="custom_button_div">
-              <a href="#" class="btn btn-md btn-outline-dark btn-light">Read More</a>
+              <a href="web-design.php" class="btn btn-md btn-outline-dark btn-light">Read More</a>
             </div>
 
           </div>

@@ -45,7 +45,7 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="#intro" class="scrollto">Hubstrew</a></h1>
+        <h1><a href="index.php" class="scrollto">Hubstrew</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
@@ -63,11 +63,13 @@
           <li><a href="about_us.php">ABOUT</a></li>
           <li class="menu-has-children"><a href="#">SERVICES</a>
             <ul>
+              <li><a href="mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
               <li><a href="android-app-devlopment.php">ANDROID APPLICATION DEVELOPMENT</a></li>
               <li><a href="ios-application-development.php">IOS APPLICATION DEVELOPMENT</a></li>
               <li><a href="hybrid-app-development.php">HYBRID APPLICATION DEVELOPMENT</a></li>
               <li><a href="mobile-app-marketing.php">MOBILE APPS MARKETING</a></li>
               <li><a href="mobile-app-design.php">MOBILE APPS DESIGN</a></li>
+              <li><a href="web-design.php">WEB DESIGN</a></li>
               <li><a href="web-development.php">WEB DEVELOPMENT</a></li>
               <li><a href="web-hosting.php">WEB HOSTING</a></li>
               <li><a href="seo.php">SEARCH ENGINE OPTIMIZATION</a></li>
@@ -75,7 +77,7 @@
             </ul>
           </li>
           <li><a href="#team">BLOGS</a></li>
-          <li><a href="#contact">CONTACT</a></li>
+          <li><a href="contact-us.php">CONTACT</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>

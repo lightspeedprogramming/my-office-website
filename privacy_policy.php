@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Privacy Policy</title>
+    <title>Refund Policy</title>
 </head>
 <body>
 
@@ -10,8 +10,7 @@
 <?php
 	include("header.php");
 ?>
-	
-    <!--==========================
+	<!--==========================
     Intro Section
   ============================-->
   <section id="intro" style="height: 42vh;">
@@ -22,8 +21,7 @@
             <div class="carousel-background"><img src="img/policy-banner.jpg" alt="" class="img-fluid"></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>PRIVACY POLICY</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2 class="page-title">PRIVACY POLICY</h2>
               </div>
             </div>
           </div>
@@ -31,6 +29,7 @@
       </div>
     </div>
   </section><!-- #intro -->
+
 
 
     <!-- MAIN CONTENT AREA START HERE -->
@@ -42,21 +41,21 @@
                     <div class="single-blog-wrap">
                        <div class="b-item-detail">
                             <h2 style="text-align: left;">Privacy Policy</h2>
-							<p>Thank you for visiting xyz Softwares. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br>
-							<b>Note:</b> The privacy practices that are stated in the privacy policy are for Mint Softwares website only. No third-party website can be linked with this website.</br>
-							Following are the privacy practices used by xyz Softwares:</p>
-							<h3>COLLECTION OF INFORMATION:</h3>
-							<p>Personal identification information, like, names, postal addresses, email addresses, etc., are collected when our visitors submit it voluntarily. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request.</p>
-							<h3>COOKIE/TRACKING TECHNOLOGY:</h3>
-							<p>We also use Cookie/Tracking technology depending on the features offered. This technology is used to gather information such as browser type and operating system, track the number of visitors to the Site, and understand how visitors use the Site. Cookies and other tracking technology cannot collect personal information.</p>
-							<h3>DISTRIBUTION OF INFORMATION:</h3>
-							<p>Sharing information with governmental agencies or other companies assisting us in fraud prevention or investigation is also a practice of our privacy policy.</p>
-							<h3>We may do so when:</h3>
-							<ol>
-								<li> Permitted or required by law.</li>
-								<li> Trying to protect against or prevent actual or potential fraud or unauthorized transactions.</li>
-								<li> Investigating fraud which has already taken place. No information is provided for marketing purposes.</li>
-							</ol> 
+              <p>Thank you for visiting xyz Softwares. This page will provide you with details about how we use the personal information collected at this site. Privacy policy must be read before using the site or submitting any personal information.</br>
+              <b>Note:</b> The privacy practices that are stated in the privacy policy are for xyz Softwares website only. No third-party website can be linked with this website.</br>
+              Following are the privacy practices used by xyz Softwares:</p>
+              <h3>COLLECTION OF INFORMATION:</h3>
+              <p>Personal identification information, like, names, postal addresses, email addresses, etc., are collected when our visitors submit it voluntarily. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request.</p>
+              <h3>COOKIE/TRACKING TECHNOLOGY:</h3>
+              <p>We also use Cookie/Tracking technology depending on the features offered. This technology is used to gather information such as browser type and operating system, track the number of visitors to the Site, and understand how visitors use the Site. Cookies and other tracking technology cannot collect personal information.</p>
+              <h3>DISTRIBUTION OF INFORMATION:</h3>
+              <p>Sharing information with governmental agencies or other companies assisting us in fraud prevention or investigation is also a practice of our privacy policy.</p>
+              <h3>We may do so when:</h3>
+              <ol>
+                <li> Permitted or required by law.</li>
+                <li> Trying to protect against or prevent actual or potential fraud or unauthorized transactions.</li>
+                <li> Investigating fraud which has already taken place. No information is provided for marketing purposes.</li>
+              </ol> 
                         </div>
                     </div>   
                 </div>
@@ -65,7 +64,6 @@
     </main>
     </div>
     <!-- MAIN CONTENT AREA END HERE -->
-
 
 
 

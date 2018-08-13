@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>About Us</title>
@@ -72,7 +72,7 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2>WHO WE ARE</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
               </div>
             </div>
           </div>
