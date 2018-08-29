@@ -45,7 +45,7 @@
     <div class="container-fluid">
 
       <div id="logo" class="pull-left">
-        <h1><a href="index.php" class="scrollto">Hubstrew</a></h1>
+        <h1><a href="index.php" class="scrollto">XYZ</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>-->
       </div>
@@ -61,7 +61,7 @@
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">HOME</a></li>
           <li><a href="about_us.php">ABOUT</a></li>
-          <li class="menu-has-children"><a href="#">SERVICES</a>
+          <li class="menu-has-children"><a href="index.php#services">SERVICES</a>
             <ul>
               <li><a href="mobile-app-development.php">MOBILE APP DEVELOPMENT</a></li>
               <li><a href="android-app-devlopment.php">ANDROID APPLICATION DEVELOPMENT</a></li>
